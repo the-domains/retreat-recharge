@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Taking the time to pack carefully can make a difference to how much you enjoy your retreat.
-datePublished: '2016-04-04T07:31:22.026Z'
-dateModified: '2016-04-04T07:30:15.800Z'
+datePublished: '2016-04-04T11:20:33.857Z'
+dateModified: '2016-04-04T11:20:20.775Z'
 title: What to Pack
 author: []
 sourcePath: _posts/2016-04-04-what-to-pack.md
@@ -29,9 +29,9 @@ Taking the time to pack carefully can make a difference to how much you enjoy yo
 
 We recommend packing into smaller bags, baskets or crates, so that each one holds the goods for a specific part of your retreat.  For example, if part of your retreat is to get back on track with your blog, then you might have a basket/bag with the following items:
 
-Laptop
+* Laptop
 
-Charger
+* Charger
 
 Notebook/Journal
 
