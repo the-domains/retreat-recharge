@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[retreat recharge]]></title>
         <description><![CDATA[retreat recharge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/retreat-recharge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 07:00:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Apr 2016 07:13:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/retreat-recharge/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What to Pack</p>]]></description>
+            <link>https://thegrid.ai/retreat-recharge/what-to-pack/index.html</link>
+            <guid isPermaLink="false">fd851612-8725-4747-96ed-d1e55a2a09dd</guid>
+            <pubDate>Mon, 04 Apr 2016 07:13:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Finding the right property</p>]]></description>
-            <link>undefinedfinding-the-right-property/index.html</link>
+            <link>https://thegrid.ai/retreat-recharge/finding-the-right-property/index.html</link>
             <guid isPermaLink="false">0abdc33c-05ec-4d7a-a962-245883450462</guid>
             <pubDate>Mon, 04 Apr 2016 07:00:27 GMT</pubDate>
         </item>
