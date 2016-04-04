@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Taking the time to pack carefully can make a difference to how much you enjoy your retreat.
-datePublished: '2016-04-04T11:20:33.857Z'
-dateModified: '2016-04-04T11:20:20.775Z'
+datePublished: '2016-04-04T11:46:48.257Z'
+dateModified: '2016-04-04T11:29:45.481Z'
 title: What to Pack
 author: []
 sourcePath: _posts/2016-04-04-what-to-pack.md
@@ -30,21 +30,15 @@ Taking the time to pack carefully can make a difference to how much you enjoy yo
 We recommend packing into smaller bags, baskets or crates, so that each one holds the goods for a specific part of your retreat.  For example, if part of your retreat is to get back on track with your blog, then you might have a basket/bag with the following items:
 
 * Laptop
-
 * Charger
-
-Notebook/Journal
-
-Pencil case
-
-Camera
-
-Camera charger
+* Notebook/Journal
+* Pencil case
+* Camera
+* Camera charger
 
 Another basket could be the items for the kitchen bench, namely:
 
-Your favourite tea/coffee
-
-Any sweeteners you use (remember sugar or artificial are usually the only ones provided)
-
-A favourite big mug or special teacup
+* Your favourite tea/coffee
+* Any sweeteners you use (remember sugar or artificial are usually the only ones provided)
+* A favourite big mug or special teacup
+* A decent sharp knife (not if you're flying in though!)
