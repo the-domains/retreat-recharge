@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Finding the right property
-datePublished: '2016-04-04T07:00:27.394Z'
-dateModified: '2016-04-04T06:59:56.487Z'
+datePublished: '2016-04-04T07:14:55.052Z'
+dateModified: '2016-04-04T07:01:43.152Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-finding-the-right-property.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-finding-the-right-property.md
-published: true
 url: finding-the-right-property/index.html
 _type: Article
 
