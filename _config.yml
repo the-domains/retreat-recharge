@@ -1,7 +1,7 @@
 name: retreat recharge
 favicon: null
 layout_spectrum: 0.10912025580182672
-typography_spectrum: 0.5917051737196743
+typography_spectrum: 0.2955
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#f8f8f8'
+    - '#060709'
+    - '#616765'
+    - '#9d9690'
+    - '#8b301b'
   brandStrength: 0.20186271518468857
   lightness: 0.6719119774643332
   saturation: 0.5120112588629127
