@@ -1,6 +1,6 @@
 name: 'Retreat | Recharge'
 favicon: null
-layout_spectrum: 0.84482
+layout_spectrum: 0.11078
 typography_spectrum: 0.34245
 title: 'Retreat | Recharge'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#002e42'
     - '#5391b8'
     - '#07080a'
-  brandStrength: 0.3125
+  brandStrength: 0.1875
   lightness: 0.5625
   saturation: 0.5625
   rhythmicContrast: 0.5
